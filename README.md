@@ -8,6 +8,6 @@ After navigating to the incidents tab and adjusting the the time range range to 
 
 Diving further into the event I can see the date and time of the event, severity, process name, and command line tool used to disable microsoft defender antivirus
 
-![image](
+![image](https://github.com/garrick8jackson/Detect-and-investigate/blob/12c3de41aba1d083cd5993b9bd9570611c3ffceb/detect%203.png)
 
 If I was to categorize the event as malicious I could then collect the investigation package, start Microsoft defender XDR automated investigation, initiate a live response session, or isolate the device. 
