@@ -1,6 +1,6 @@
 # Detect and investigate
 
-![image]{
+![image]{https://github.com/garrick8jackson/Detect-and-investigate/blob/76d5d1b47981aba4b97eae34fd952bff6135cf57/detect%201.png)
 
 After navigating to the incidents tab and adjusting the the time range range to 6 months I detected an attempt to turn off Microsoft defender antivirus protection. I clicked into the notification to view the device involved, user account involved, time of execution, event name, and incident category
 
